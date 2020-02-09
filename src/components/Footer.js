@@ -10,7 +10,7 @@ function Footer() {
   return (
     <footer className="bg-purple-900 text-center py-5">
       <div class="container flex flex-wrap items-center justify-between mx-auto px-5">
-        <p className="text-white text-xl py-4">
+        <p className="text-xl text-white w-full md:w-auto mb-4 md:mb-0">
           Built with ❤ by {<strong>Humblefool986</strong>} ✌
         </p>
         <ul class="flex text-white text-xl mx-auto md:mr-0">
